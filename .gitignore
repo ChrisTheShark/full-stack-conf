@@ -4,6 +4,9 @@
 # NPM Module local cache
 node_modules
 
+# NPM logs
+*.log
+
 # Generated files and folder
 public/dist
 
