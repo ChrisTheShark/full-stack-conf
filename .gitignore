@@ -1,0 +1,9 @@
+# Mac file descriptors
+.DS_Store
+
+# NPM Module local cache
+node_modules
+
+# Generated files and folder
+public/dist
+

@@ -1,0 +1,24 @@
+{
+  "name": "full-stack-conf",
+  "version": "0.0.1",
+  "description": "Example Bootstrap application for a fake conference from Treehouse Bootstrap course.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chris Dyer",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.5",
+    "express-tape": "^0.0.6",
+    "jquery": "^3.1.1",
+    "morgan": "^1.7.0",
+    "tether": "^1.4.0"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.0.0"
+  }
+}
